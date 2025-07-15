@@ -1,0 +1,6 @@
+
+{
+  "name": "IM2025-decision-helper-ai",
+  "description": "An AI-powered tool to help you weigh the pros and cons of any decision. Input your dilemma, and the AI will generate potential upsides and downsides to give you a comprehensive view. You can then add your own points and weight each factor to get a clear, calculated recommendation.",
+  "requestFramePermissions": []
+}
