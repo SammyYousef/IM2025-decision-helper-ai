@@ -1,7 +1,5 @@
 # Run and deploy your AI Studio app
 
-Australian Public Service Community Innovation Month 2025 Build a Bureaucrat Bot challenge entry.
-
 This contains everything you need to run your app locally.
 
 ## Run Locally

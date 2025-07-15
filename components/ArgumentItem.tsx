@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { type Argument } from '../types';
 import TrashIcon from './icons/TrashIcon';
@@ -23,7 +22,7 @@ const ArgumentItem: React.FC<ArgumentItemProps> = ({ argument, onUpdateWeight, o
         <input
           id={`weight-${argument.id}`}
           type="range"
-          min="1"
+          min="0"
           max="10"
           value={argument.weight}
           onChange={(e) => onUpdateWeight(parseInt(e.target.value, 10))}
